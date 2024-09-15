@@ -4,7 +4,7 @@
 ### Dashboard Preview :
 ![Screenshot 2024-09-15 194141](https://github.com/user-attachments/assets/e839498b-c85e-4b21-b1fe-941d109f4c88)
 
-## Problem Statement
+## Introduction
 
 The Pizza Sales Dashboard provides valuable insights into the sales performance of different pizza categories, sizes, and individual items. It helps the business identify its best-selling products and those that need improvement. By analyzing daily, weekly, and monthly trends, the company can make data-driven decisions to optimize their operations and increase profitability. The dashboard also highlights key performance indicators such as total revenue, total orders, and average order value.
 
