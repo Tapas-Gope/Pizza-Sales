@@ -1,5 +1,4 @@
-
-# Pizza Sales Dashboard
+# Pizza Sales Dashboard 🍕 📈 📊
 
 ### Dashboard Preview :
 ![Screenshot 2024-09-15 194141](https://github.com/user-attachments/assets/e839498b-c85e-4b21-b1fe-941d109f4c88)
