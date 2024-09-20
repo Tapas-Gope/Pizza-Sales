@@ -13,14 +13,12 @@ Key metrics such as the number of pizzas sold, busiest days and times, and best-
 
 
 ### Steps followed 
-
-- Step 1: Loaded data into Power BI Desktop from MS SQL Server database.
-- Step 2: In the Power Query editor, used data profiling options to check column distribution, quality, and profile across the entire dataset.
-- Step 3: Cleaned data by addressing missing values and ensuring all relevant columns were accurate.
-- Step 4: Created various visuals, including bar charts, line charts, and card visuals to represent key metrics such as total revenue, total orders, and pizza sales distribution by category and size.
-- Step 5: Applied slicers for pizza category and size to allow dynamic filtering of the visuals.
-- Step 6: Created measures to calculate total revenue, total pizzas sold, and average order value using DAX expressions.
-- Step 7: Designed the dashboard layout and applied visual filters to allow the end-user to drill down into specific sales data. 
+- Step 1: Cleaned data by addressing missing values and ensuring all relevant columns were accurate in MS SQL.
+- Step 2: Loaded data into Power BI Desktop from MS SQL Server database.
+- Step 3: Created various visuals, including bar charts, line charts, and card visuals to represent key metrics such as total revenue, total orders, and pizza sales distribution by category and size.
+- Step 4: Applied slicers for pizza category and size to allow dynamic filtering of the visuals.
+- Step 5: Created measures to calculate total revenue, total pizzas sold, and average order value using DAX expressions.
+- Step 6: Designed the dashboard layout and applied visual filters to allow the end-user to drill down into specific sales data. 
 
 
 
